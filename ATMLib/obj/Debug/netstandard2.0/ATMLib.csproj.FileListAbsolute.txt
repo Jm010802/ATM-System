@@ -1,0 +1,9 @@
+C:\Users\ADMIN\source\repos\ATMSys\ATMLib\bin\Debug\netstandard2.0\ATMLib.deps.json
+C:\Users\ADMIN\source\repos\ATMSys\ATMLib\bin\Debug\netstandard2.0\ATMLib.dll
+C:\Users\ADMIN\source\repos\ATMSys\ATMLib\bin\Debug\netstandard2.0\ATMLib.pdb
+C:\Users\ADMIN\source\repos\ATMSys\ATMLib\obj\Debug\netstandard2.0\ATMLib.csprojAssemblyReference.cache
+C:\Users\ADMIN\source\repos\ATMSys\ATMLib\obj\Debug\netstandard2.0\ATMLib.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\ATMSys\ATMLib\obj\Debug\netstandard2.0\ATMLib.AssemblyInfoInputs.cache
+C:\Users\ADMIN\source\repos\ATMSys\ATMLib\obj\Debug\netstandard2.0\ATMLib.AssemblyInfo.cs
+C:\Users\ADMIN\source\repos\ATMSys\ATMLib\obj\Debug\netstandard2.0\ATMLib.dll
+C:\Users\ADMIN\source\repos\ATMSys\ATMLib\obj\Debug\netstandard2.0\ATMLib.pdb

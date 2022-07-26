@@ -1,0 +1,16 @@
+C:\Users\ADMIN\source\repos\ATMSys\ATMSys\obj\Debug\netcoreapp2.2\ATMSys.csprojAssemblyReference.cache
+C:\Users\ADMIN\source\repos\ATMSys\ATMSys\obj\Debug\netcoreapp2.2\ATMSys.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\ATMSys\ATMSys\obj\Debug\netcoreapp2.2\ATMSys.AssemblyInfoInputs.cache
+C:\Users\ADMIN\source\repos\ATMSys\ATMSys\obj\Debug\netcoreapp2.2\ATMSys.AssemblyInfo.cs
+C:\Users\ADMIN\source\repos\ATMSys\ATMSys\bin\Debug\netcoreapp2.2\ATMSys.deps.json
+C:\Users\ADMIN\source\repos\ATMSys\ATMSys\bin\Debug\netcoreapp2.2\ATMSys.runtimeconfig.json
+C:\Users\ADMIN\source\repos\ATMSys\ATMSys\bin\Debug\netcoreapp2.2\ATMSys.runtimeconfig.dev.json
+C:\Users\ADMIN\source\repos\ATMSys\ATMSys\bin\Debug\netcoreapp2.2\ATMSys.dll
+C:\Users\ADMIN\source\repos\ATMSys\ATMSys\bin\Debug\netcoreapp2.2\ATMDomain.dll
+C:\Users\ADMIN\source\repos\ATMSys\ATMSys\bin\Debug\netcoreapp2.2\ATMLib.dll
+C:\Users\ADMIN\source\repos\ATMSys\ATMSys\bin\Debug\netcoreapp2.2\ATMDomain.pdb
+C:\Users\ADMIN\source\repos\ATMSys\ATMSys\bin\Debug\netcoreapp2.2\ATMLib.pdb
+C:\Users\ADMIN\source\repos\ATMSys\ATMSys\obj\Debug\netcoreapp2.2\ATMSys.csproj.CopyComplete
+C:\Users\ADMIN\source\repos\ATMSys\ATMSys\bin\Debug\netcoreapp2.2\ATMSys.pdb
+C:\Users\ADMIN\source\repos\ATMSys\ATMSys\obj\Debug\netcoreapp2.2\ATMSys.dll
+C:\Users\ADMIN\source\repos\ATMSys\ATMSys\obj\Debug\netcoreapp2.2\ATMSys.pdb

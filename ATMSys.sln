@@ -1,0 +1,50 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28729.10
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ATMSys", "ATMSys\ATMSys.csproj", "{7DEE7ABE-32BF-4C07-A10E-C424DA1D7D3A}"
+	ProjectSection(ProjectDependencies) = postProject
+		{B7E05357-DEAA-451B-8F12-DECB6A3ECA25} = {B7E05357-DEAA-451B-8F12-DECB6A3ECA25}
+		{5C31A481-CE64-4D88-B207-D0EECB87CE42} = {5C31A481-CE64-4D88-B207-D0EECB87CE42}
+	EndProjectSection
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ATMDomain", "ATMDomain\ATMDomain.csproj", "{5C31A481-CE64-4D88-B207-D0EECB87CE42}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ATMLib", "ATMLib\ATMLib.csproj", "{B7E05357-DEAA-451B-8F12-DECB6A3ECA25}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataLayer", "DataLayer\DataLayer.csproj", "{0786B1BB-D4B1-4C61-962F-D9590EE4EC5E}"
+	ProjectSection(ProjectDependencies) = postProject
+		{B7E05357-DEAA-451B-8F12-DECB6A3ECA25} = {B7E05357-DEAA-451B-8F12-DECB6A3ECA25}
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7DEE7ABE-32BF-4C07-A10E-C424DA1D7D3A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7DEE7ABE-32BF-4C07-A10E-C424DA1D7D3A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7DEE7ABE-32BF-4C07-A10E-C424DA1D7D3A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7DEE7ABE-32BF-4C07-A10E-C424DA1D7D3A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5C31A481-CE64-4D88-B207-D0EECB87CE42}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C31A481-CE64-4D88-B207-D0EECB87CE42}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C31A481-CE64-4D88-B207-D0EECB87CE42}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C31A481-CE64-4D88-B207-D0EECB87CE42}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B7E05357-DEAA-451B-8F12-DECB6A3ECA25}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7E05357-DEAA-451B-8F12-DECB6A3ECA25}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7E05357-DEAA-451B-8F12-DECB6A3ECA25}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7E05357-DEAA-451B-8F12-DECB6A3ECA25}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0786B1BB-D4B1-4C61-962F-D9590EE4EC5E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0786B1BB-D4B1-4C61-962F-D9590EE4EC5E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0786B1BB-D4B1-4C61-962F-D9590EE4EC5E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0786B1BB-D4B1-4C61-962F-D9590EE4EC5E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {773BD375-641D-4107-8C16-077C30AF61B9}
+	EndGlobalSection
+EndGlobal
